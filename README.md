@@ -1,5 +1,4 @@
 ### Hi there 👋 
-<div class="tenor-gif-embed" data-postid="25647151" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/funny-gif-25647151">Funny GIF</a>from <a href="https://tenor.com/search/funny-gifs">Funny GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **Himisha12/Himisha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
