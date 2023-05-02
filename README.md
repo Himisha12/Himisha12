@@ -1,5 +1,4 @@
 ### Hi there 👋 
-https://tenor.com/view/funny-gif-25647151
 <!--
 **Himisha12/Himisha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
